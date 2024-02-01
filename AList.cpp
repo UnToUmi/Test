@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 // Co tinh conflix
 //  Hello
-=======
-//Hello
-// Hello
->>>>>>> fb43a5c6cb3e6da06582c5d8be50c1e009339774
 #include <iostream>
 #include <string>
 using namespace std;
