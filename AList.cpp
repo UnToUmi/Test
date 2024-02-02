@@ -1,5 +1,4 @@
-// Co tinh conflix
-//  Hello
+//Chao thay Duy
 #include <iostream>
 #include <string>
 using namespace std;
